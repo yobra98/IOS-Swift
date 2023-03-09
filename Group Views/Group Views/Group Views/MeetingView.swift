@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  hello_world
+//  Group Views
 //
-//  Created by Brian The Original Yobra on 08/03/2023.
+//  Created by Brian The Original Yobra on 09/03/2023.
 //  Copyright © 2023 Brian The Original Yobra. All rights reserved.
 //
 
@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World! God Did")
+        Text("Hello, World!")
     }
 }
 
