@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  iOSProgressView
 //
-//  Created by Anupam Chugh on 13/07/18.
-//  Copyright © 2018 JournalDev. All rights reserved.
+//  Created by Brian Njoroge on 09/03/23.
+//  Copyright © 2023 BramCode. All rights reserved.
 //
 
 import UIKit
